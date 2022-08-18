@@ -1,0 +1,49 @@
+_repo: Through-the-school-The-experiences-of-a-mill-boy-in-securing-an-education_68750
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, F. T.
+    - Merrill, Frank Thayer
+    birthdate: 1848
+    deathdate: 1923
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+  - agent_name: Benda, Wladyslaw T. (Wladyslaw Theodore)
+    aliases:
+    - Benda, W. T.
+    - Benda, W. (Wladyslaw)
+    - Benda, Wladyslaw Theodore
+    birthdate: 1873
+    deathdate: 1948
+    gutenberg_agent_id: '36188'
+    url: http://www.gutenberg.org/2009/agents/36188
+    wikipedia: https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_T._Benda
+creator:
+  author:
+    agent_name: Brown, Frederic Kenyon
+    alias: Priddy, Al
+    birthdate: 1882
+    gutenberg_agent_id: '54813'
+    url: http://www.gutenberg.org/2009/agents/54813
+description: ''
+gutenberg_issued: '2022-08-15'
+identifiers:
+  gutenberg: '68750'
+language: en
+pgterms:marc904: https://archive.org/details/throughschoolexp00brow/page/n7/mode/2up
+pgterms:marc905: 20200731113452brown
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: David E. Brown and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: United States :The Pilgrim Press,1912.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Through the school: The experiences of a mill boy in securing an education'
+url: http://www.gutenberg.org/ebooks/68750
