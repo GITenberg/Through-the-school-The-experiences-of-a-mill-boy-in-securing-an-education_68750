@@ -20,6 +20,9 @@ contributor:
     gutenberg_agent_id: '36188'
     url: http://www.gutenberg.org/2009/agents/36188
     wikipedia: https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_T._Benda
+covers:
+- cover_type: archival
+  image_path: 68750-h/images/cover.jpg
 creator:
   author:
     agent_name: Brown, Frederic Kenyon
@@ -28,6 +31,8 @@ creator:
     gutenberg_agent_id: '54813'
     url: http://www.gutenberg.org/2009/agents/54813
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68750#Through-the-school-The-experiences-of-a-mill-boy-in-securing-an-education
 gutenberg_issued: '2022-08-15'
 identifiers:
   gutenberg: '68750'
